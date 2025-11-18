@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Profile Menu',
+      title: 'Profile Menu1',
       theme: ThemeData(
         scaffoldBackgroundColor: const Color(0xFFD1DEE4), // warna abu kebiruan
         fontFamily: 'Roboto',
